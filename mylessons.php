@@ -2,12 +2,12 @@
 /*
 Plugin Name: Mylessons
 Description: Плагин закрытой социальной сети, которая крепиться на сайте
-Version: 0.8.0
+Version: 1.0.0
 Author: Bekker Y & Co.
 Author URI: https://bekker.co.il
 */
 
-define( 'BEKLESS_VERSION', '0.8.0' );
+define( 'BEKLESS_VERSION', '1.0.0' );
 define( 'BEKLESS_PLUGIN', __FILE__ );
 define( 'BEKLESS_PLUGIN_BASENAME', plugin_basename( BEKLESS_PLUGIN ) );
 define( 'BEKLESS_PLUGIN_NAME', trim( dirname( BEKLESS_PLUGIN_BASENAME ), '/' ) );
