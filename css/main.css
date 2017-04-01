@@ -1,0 +1,150 @@
+
+#wpcontent{
+  background-color: #EDEDED;
+}
+.wrap{
+  background-color: #fff;
+  padding: 30px 10px;
+}
+.title-page{
+  direction: ltr;
+  display: block;
+  padding-bottom: 20px !important;
+  padding-top: 20px !important;
+  font-size: 2em !important;
+}
+
+.margin-30{
+  margin: 30px auto;
+}
+
+.bg-ccc{
+  margin-top: 20px;
+  background-color: #ccc;
+}
+
+.line-height-2{
+  line-height: 2;
+  padding: 10px;
+}
+
+.padding-left-right-30{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.padding-left-20{
+  padding-left: 30px;
+}
+.bek-rtl{
+  direction: ltr !important;
+  text-align: right !important;
+}
+
+.bek-ltr{
+  direction: ltr !important;
+  text-align: left !important;
+}
+
+.btn-greey{
+  color:#777;
+}
+.btn-dark{
+  color:#555;
+}
+.btn-red{
+  color:#d9534f;
+}
+.btn-yellow{
+  color:#f0ad4e;
+}
+.btn-green{
+  color:#5cb85c;
+}
+.btn-blue{
+  color:#428bca;
+}
+
+.lightboxBig{
+
+}
+.lightboxBig{
+  width: 100%;
+  height: 247px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  background-image: url(../images/bg-photos.jpg);
+}
+.lightboxBig img{
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+}
+
+.lightboxMini{
+  width: 100%;
+  height: 266px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  background-image: url(../images/bg-photos.jpg);
+}
+.lightboxMini img{
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+}
+
+.lightboxMini2{
+  width: 100%;
+  height: 280px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  background-image: url(../images/bg-photos.jpg);
+}
+.lightboxMini2 img{
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  vertical-align: middle;
+}
+
+.lightboxMiniX{
+  width: 100%;
+  height: 378px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  background-image: url(../images/bg-photos.jpg);
+}
+.lightboxMiniX img{
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  vertical-align: middle;
+}
